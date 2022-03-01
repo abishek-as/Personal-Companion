@@ -63,4 +63,4 @@ The requirement for numerous functions in a single app is expanding and becoming
     </tr>
 </table>
 - Personal Expenses page after adding the expenses.
-  <img src="/screenshots/14.jpg" width=280 height=530>
+  <img src="/screenshots/14.jpg" width=280 height=550>
