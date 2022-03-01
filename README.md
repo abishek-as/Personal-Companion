@@ -21,46 +21,46 @@ The requirement for numerous functions in a single app is expanding and becoming
 ## Screenshots
 
 - App Permissions.<br>
-  <img src="/screenshots/15.jpg" width=270 height=480>
+  <img src="/screenshots/15.jpg" width=280 height=530>
 - The home page and the steps, as well as the status of the user’s movement.
 <table>
     <tr>
-    <td><img src="/screenshots/1.jpg" width=270 height=480></td>
-    <td><img src="/screenshots/2.jpg" width=270 height=480></td>
-    <td><img src="/screenshots/3.jpg" width=270 height=480></td>
+    <td><img src="/screenshots/1.jpg" width=280 height=530></td>
+    <td><img src="/screenshots/2.jpg" width=280 height=530></td>
+    <td><img src="/screenshots/3.jpg" width=280 height=530></td>
     </tr>
 </table>
 - Notes home page and adding new notes.
 <table>
     <tr>
-    <td><img src="/screenshots/4.jpg" width=270 height=480></td>
-    <td><img src="/screenshots/16.jpg" width=270 height=480></td>
-    <td><img src="/screenshots/18.jpg" width=270 height=480></td>
+    <td><img src="/screenshots/4.jpg" width=280 height=530></td>
+    <td><img src="/screenshots/16.jpg" width=280 height=530></td>
+    <td><img src="/screenshots/18.jpg" width=280 height=530></td>
     </tr>
 </table>
 - Displaying the notes after adding the new note.
 <table>
     <tr>
-    <td><img src="/screenshots/17.jpg" width=270 height=480></td>
-    <td><img src="/screenshots/19.jpg" width=270 height=480></td>
-    <td><img src="/screenshots/5.jpg" width=270 height=480></td>
+    <td><img src="/screenshots/17.jpg" width=280 height=530></td>
+    <td><img src="/screenshots/19.jpg" width=280 height=530></td>
+    <td><img src="/screenshots/5.jpg" width=280 height=530></td>
     </tr>
 </table>
 - Displaying the personal expenses page, add transactions widget.
 <table>
     <tr>
-    <td><img src="/screenshots/8.jpg" width=270 height=480></td>
-    <td><img src="/screenshots/9.jpg" width=270 height=480></td>
-    <td><img src="/screenshots/10.jpg" width=270 height=480></td>
+    <td><img src="/screenshots/8.jpg" width=280 height=530></td>
+    <td><img src="/screenshots/9.jpg" width=280 height=530></td>
+    <td><img src="/screenshots/10.jpg" width=280 height=530></td>
     </tr>
 </table>
 - Adding transaction details and other necessary information.
 <table>
     <tr>
-    <td><img src="/screenshots/11.jpg" width=270 height=480></td>
-    <td><img src="/screenshots/12.jpg" width=270 height=480></td>
-    <td><img src="/screenshots/13.jpg" width=270 height=480></td>
+    <td><img src="/screenshots/11.jpg" width=280 height=530></td>
+    <td><img src="/screenshots/12.jpg" width=280 height=530></td>
+    <td><img src="/screenshots/13.jpg" width=280 height=530></td>
     </tr>
 </table>
 - Personal Expenses page after adding the expenses.
-  <img src="/screenshots/14.jpg" width=270 height=480>
+  <img src="/screenshots/14.jpg" width=280 height=530>
