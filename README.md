@@ -20,7 +20,7 @@ The requirement for numerous functions in a single app is expanding and becoming
 
 ## Screenshots
 
-- App Permissions.
+- App Permissions.<br>
   <img src="/screenshots/15.jpg" width=270 height=480>
 - The home page and the steps, as well as the status of the user’s movement.
 <table>
